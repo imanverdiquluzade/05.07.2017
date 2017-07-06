@@ -1,15 +1,17 @@
  C
+1970-ci illərin başında Ken Thompson və Dennis Ritchie tərəfindən UNIX əməliyyat sistemi üçün 1972-ci ildə inkişaf etdirilmiş bir C proqramlaşdırma dili, indiki vaxtda az qala bütün əməliyyat sistemlərində istifadə edilməkdədir. Dünyanın ən çox istifadə edilən sistem proqramlaşdırma dilidir.
 
- C - proqramlama dili  meshur ve  her hansi bir meqsedle kod yazila bilen proqramlasdirma  dilidir. Helede C proqramlama dilinen istifade eden insanlar coxdur.C -den 
-istifade ederek Unix systemide olmusdur.
+C 'nin ilk inkişaf mərhələləri 1969 ilə 1974 arasında AT & T Bell Laboratuvarları'nda reallaşdı. Ritchienin görə, ən yaradıcı dövrə 1972 idi. Dilin bir çox xüsusiyyəti "B" adlı bir dildən törədiyi üçün, yeni dilə "C" adı verildi.1983'te Amerikan Milli Standartlar İnstitutu (ANSI) bir C standartı yaratmaq üçün bir qurul meydana gətirdi və bu qurul standartı 1989-cu ildə tamamladı və standart ANSI X3.159-1989 "Programming Language C (C Proqramlaşdırma Dili)" olaraq nümayiş olundu. Dilin bu versiyası ümumiyyətlə ANSI C olaraq adlandırılar.
+
+
 
 
 Assembly 
+Assembly dili alt səviyyə bir proqramlaşdırma dilidir və kompleks proqramlar yazmaq üçün istifadə edilər. Assembly insanlar tərəfindən başa düşülməsi çətin olan makina dilinin ki ifadələrini, daha asan aydın olar və proqramlaşdırıla olan əlifba ifadələrlə dəyişdirib alt səviyyədə proqramlaşdırma üçün bir mühit meydana gətirər.
 
-Assembly - Oyrenilmesi cetin olan bir dildir.Uzun zaman ve boyuk  emek isteyir.Diger proqramda yazdigimiz sade kodlari,
-burda uzun zamana edirik.
+Assembly dil proqramları, ümumiyyətlə platformadan müstəqil olan üst səviyyəli proqramlaşdırma dillərinin əksinə bir hədəf kompüter arxitekturasına möhkəm möhkəmə bağlıdır.Assembly istifadə etmənin məqsədi, ilk kompüterlərdə yazılan proqramların daha az səhv ehtiva etməsi və daha az zaman almasını təmin etməkdir.
 
 
 ASP.net 
 
-ASP.net-dil degil bir serverdir.Microsoft terefinden yaranmisdir..Net freamwork tesiqleyir.
+Asp.net web app inkişaf (framework) çatısının. Microsoft 'un inkişaf etdirmiş olduğu klassik ASP' nin üzərində əhəmiyyətli irəliləyişlər edilərək yaradılmışdır. Asp.net müasir bir texnologiyadır və web pages, web tətbiqləri və XML veb xidmətləri hazırlanmasına imkan verir. ASP.NET proqramlaşdırma dili deyil.
