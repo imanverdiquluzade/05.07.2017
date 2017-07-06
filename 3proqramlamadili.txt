@@ -1,0 +1,15 @@
+ C
+
+ C - proqramlama dili  meshur ve  her hansi bir meqsedle kod yazila bilen proqramlasdirma  dilidir. Helede C proqramlama dilinen istifade eden insanlar coxdur.C -den 
+istifade ederek Unix systemide olmusdur.
+
+
+Assembly 
+
+Assembly - Oyrenilmesi cetin olan bir dildir.Uzun zaman ve boyuk  emek isteyir.Diger proqramda yazdigimiz sade kodlari,
+burda uzun zamana edirik.
+
+
+ASP.net 
+
+ASP.net-dil degil bir serverdir.Microsoft terefinden yaranmisdir..Net freamwork tesiqleyir.
